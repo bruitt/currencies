@@ -1,0 +1,19 @@
+{
+  "name": "@bruitt/currencies",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "babel lib -d dist",
+    "prepublish": "BABEL_ENV=production npm run build",
+    "lint": "eslint ./lib"
+  },
+  "repository": "git@github.com:bruitt/currencies.git",
+  "author": "Pavel Pertsev <morhetz@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.14.0",
+    "babel-core": "^6.14.0",
+    "@bruitt/eslint-config-lint-lib": "^0.0.0",
+    "babel-preset-bruitt-lib": "^1.1.0"
+  }
+}
