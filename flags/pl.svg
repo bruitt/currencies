@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>pl</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="24" cy="24" r="24"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="pl">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#CCCCCC" xlink:href="#path-1"></use>
+            <image mask="url(#mask-2)" x="-7" y="1" width="62" height="46" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAACoCAIAAACZhh6JAAAABGdBTUEAA1teXP8meAAAAzxJREFUeAHt1sENQFAURUFf1KMY/S+sLNQg+aKLkxgVXOdNxJhzLh4FwgXW8DbTFPgKMMpBvQCj9QvZxygD9QKM1i9kH6MM1AswWr+QfYwyUC/AaP1C9jHKQL0Ao/UL2ccoA/UCjNYvZB+jDNQLMFq/kH2MMlAvwGj9QvYxykC9AKP1C9nHKAP1AozWL2QfowzUCzBav5B9jDJQL8Bo/UL2McpAvQCj9QvZxygD9QKM1i9kH6MM1AswWr+QfYwyUC/AaP1C9jHKQL0Ao/UL2ccoA/UCjNYvZB+jDNQLMFq/kH2MMlAvwGj9QvYxykC9AKP1C9nHKAP1AozWL2QfowzUCzBav5B9jDJQL8Bo/UL2McpAvQCj9QvZxygD9QKM1i9kH6MM1AswWr+QfYwyUC/AaP1C9jHKQL0Ao/UL2ccoA/UCjNYvZB+jDNQLMFq/kH2MMlAvwGj9QvYxykC9AKP1C9nHKAP1AozWL2QfowzUCzBav5B9jDJQL8Bo/UL2McpAvQCj9QvZxygD9QKM1i9kH6MM1AswWr+QfYwyUC/AaP1C9jHKQL3A9lx3faN9/y4wzv34dwFvXy/gO1q/kH3+RxmoF2C0fiH7GGWgXoDR+oXsY5SBegFG6xeyj1EG6gUYrV/IPkYZqBdgtH4h+xhloF6A0fqF7GOUgXoBRusXso9RBuoFGK1fyD5GGagXYLR+IfsYZaBegNH6hexjlIF6AUbrF7KPUQbqBRitX8g+RhmoF2C0fiH7GGWgXoDR+oXsY5SBegFG6xeyj1EG6gUYrV/IPkYZqBdgtH4h+xhloF6A0fqF7GOUgXoBRusXso9RBuoFGK1fyD5GGagXYLR+IfsYZaBegNH6hexjlIF6AUbrF7KPUQbqBRitX8g+RhmoF2C0fiH7GGWgXoDR+oXsY5SBegFG6xeyj1EG6gUYrV/IPkYZqBdgtH4h+xhloF6A0fqF7GOUgXoBRusXso9RBuoFGK1fyD5GGagXYLR+IfsYZaBegNH6hexjlIF6AUbrF7KPUQbqBRitX8g+RhmoF2C0fiH7GGWgXoDR+oXsY5SBegFG6xeyj1EG6gUYrV/IPkYZqBdgtH4h+16LCQtIEZmQ1wAAAABJRU5ErkJggg=="></image>
+        </g>
+    </g>
+</svg>

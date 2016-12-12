@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>bo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="24" cy="24" r="24"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="bo">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#CCCCCC" xlink:href="#path-1"></use>
+            <image mask="url(#mask-2)" x="0" y="0" width="48" height="48" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAYAAAA+s9J6AAAABGdBTUEAALGPC/xhBQAABWtJREFUeAHt18ENwkAQBME95GyIkySIijwQKXAgCKIfLsv/gdqZh9ee+b4eAgQqgUsVLJcAgb+AEWoCgVjACOMDiCdghDpAIBYwwvgA4gkYoQ4QiAWMMD6AeAJGqAMEYgEjjA8gnoAR6gCBWMAI4wOIJ2CEOkAgFjDC+ADiCRihDhCIBYwwPoB4AkaoAwRiASOMDyCegBHqAIFYwAjjA4gnYIQ6QCAWMML4AOIJGKEOEIgFjDA+gHgCRqgDBGIBI4wPIJ6AEeoAgVjACOMDiCdghDpAIBYwwvgA4gkYoQ4QiAWMMD6AeAJGqAMEYgEjjA8gnoAR6gCBWMAI4wOIJ2CEOkAgFjDC+ADiCRihDhCIBYwwPoB4AkaoAwRiASOMDyCegBHqAIFYwAjjA4gnYIQ6QCAWMML4AOIJGKEOEIgFjDA+gHgCRqgDBGIBI4wPIJ6AEeoAgVjACOMDiCdghDpAIBYwwvgA4gkYoQ4QiAWMMD6AeAJGqAMEYgEjjA8gnoAR6gCBWMAI4wOIJ2CEOkAgFjDC+ADiCRihDhCIBYwwPoB4AkaoAwRiASOMDyCegBHqAIFYwAjjA4gnYIQ6QCAWMML4AOIJGKEOEIgFjDA+gHgCRqgDBGIBI4wPIJ6AEeoAgVjACOMDiCdwzBUCAQKlwNrP2eUPkE3g7AJrbyM8ewn8/1bAN2HrL53AGKESEIgFjDA+gHgCRqgDBGIBI4wPIJ6AEeoAgVjACOMDiCdghDpAIBYwwvgA4gkYoQ4QiAWMMD6AeAJGqAMEYgEjjA8gnoAR6gCBWMAI4wOIJ2CEOkAgFjDC+ADiCRihDhCIBYwwPoB4AkaoAwRiASOMDyCegBHqAIFYwAjjA4gnYIQ6QCAWMML4AOIJGKEOEIgFjDA+gHgCRqgDBGIBI4wPIJ6AEeoAgVjACOMDiCdghDpAIBYwwvgA4gkYoQ4QiAWMMD6AeAJGqAMEYgEjjA8gnoAR6gCBWMAI4wOIJ2CEOkAgFjDC+ADiCRihDhCIBYwwPoB4AkaoAwRiASOMDyCegBHqAIFYwAjjA4gnYIQ6QCAWMML4AOIJGKEOEIgFjDA+gHgCRqgDBGIBI4wPIJ6AEeoAgVjACOMDiCdghDpAIBYwwvgA4gkYoQ4QiAWMMD6AeAJGqAMEYgEjjA8gnoAR6gCBWMAI4wOIJ2CEOkAgFjDC+ADiCRihDhCIBYwwPoB4AkaoAwRiASOMDyCegBHqAIFYwAjjA4gncLz3vDEQINAJHLfHvLp4yQQIrLnPxkCAQCfgm7Czl0zgJ2CEikAgFjDC+ADiCRihDhCIBYwwPoB4AkaoAwRiASOMDyCegBHqAIFYwAjjA4gnYIQ6QCAWMML4AOIJGKEOEIgFjDA+gHgCRqgDBGIBI4wPIJ6AEeoAgVjACOMDiCdghDpAIBYwwvgA4gkYoQ4QiAWMMD6AeAJGqAMEYgEjjA8gnoAR6gCBWMAI4wOIJ2CEOkAgFjDC+ADiCRihDhCIBYwwPoB4AkaoAwRiASOMDyCegBHqAIFYwAjjA4gnYIQ6QCAWMML4AOIJGKEOEIgFjDA+gHgCRqgDBGIBI4wPIJ6AEeoAgVjACOMDiCdghDpAIBYwwvgA4gkYoQ4QiAWMMD6AeAJGqAMEYgEjjA8gnoAR6gCBWMAI4wOIJ2CEOkAgFjDC+ADiCRihDhCIBYwwPoB4AkaoAwRiASOMDyCegBHqAIFYwAjjA4gnYIQ6QCAWMML4AOIJGKEOEIgFjDA+gHgCRqgDBGIBI4wPIJ6AEeoAgVjACOMDiCdghDpAIBYwwvgA4gkYoQ4QiAWMMD6AeAJGqAMEYgEjjA8gnoAR6gCBWOADmcwQqlAP/M0AAAAASUVORK5CYII="></image>
+        </g>
+    </g>
+</svg>

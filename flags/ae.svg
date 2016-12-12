@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41 (35326) - http://www.bohemiancoding.com/sketch -->
+    <title>ae</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="24" cy="24" r="24"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ae">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#CCCCCC" xlink:href="#path-1"></use>
+            <image mask="url(#mask-2)" x="0" y="0" width="48" height="48" xlink:href="data:image/png;base64,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"></image>
+        </g>
+    </g>
+</svg>
