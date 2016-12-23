@@ -1,6 +1,6 @@
 {
   "name": "@bruitt/currencies",
-  "version": "1.4.4",
+  "version": "1.5.0",
   "main": "dist/index.js",
   "scripts": {
     "build": "babel lib -d dist",
